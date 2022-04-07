@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-jwt/static/css/main.384f5a46.css",
+    "main.js": "/login-jwt/static/js/main.447818ad.js",
+    "index.html": "/login-jwt/index.html",
+    "main.384f5a46.css.map": "/login-jwt/static/css/main.384f5a46.css.map",
+    "main.447818ad.js.map": "/login-jwt/static/js/main.447818ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384f5a46.css",
+    "static/js/main.447818ad.js"
+  ]
+}
